@@ -1,0 +1,21 @@
+#augh {
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 100px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+  }
+
+  .img {
+    display: flex;
+    align-items: center;
+    height: 0vh;
+  }
+
+  .iran {
+    display: flex;
+    height: 0vh;
+  }
